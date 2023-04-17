@@ -1,0 +1,11 @@
+class Equilateral : public Isosceles{
+      public:
+          void equilateral(){
+            cout<<"I am an equilateral triangle\n";
+          }
+};
+
+
+Video link
+
+https://youtu.be/mTIPkwLhEkg
