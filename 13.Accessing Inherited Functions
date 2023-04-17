@@ -1,0 +1,14 @@
+while(new_val % 2==0){
+                new_val/=2;
+                A::func(val);
+            }
+            while(new_val % 3==0){
+                new_val/=3;
+                B::func(val);
+            }
+            while(new_val % 5==0){
+                new_val/=5;
+                C::func(val);
+            }
+            
+            Video link
